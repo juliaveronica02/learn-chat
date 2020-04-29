@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -12,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juliaveronica02/learn-chat.git"
+    "url": "git+https://github.com/michaeltamsil/learn-chat.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juliaveronica02/learn-chat/issues"
+    "url": "https://github.com/michaeltamsil/learn-chat/issues"
   },
-  "homepage": "https://github.com/juliaveronica02/learn-chat#readme"
+  "homepage": "https://github.com/michaeltamsil/learn-chat#readme"
 }
